@@ -1,0 +1,2 @@
+class BillboardStanding < ApplicationRecord
+end
